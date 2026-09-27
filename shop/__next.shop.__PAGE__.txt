@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[6260,["/wemakeyoubake/_next/static/chunks/0qi-mvzpxhkna.js","/wemakeyoubake/_next/static/chunks/25f-t_t82we7t.js","/wemakeyoubake/_next/static/chunks/0wkqwqg-jj_t_.js"],"ShopGrid"]
+4:I[70712,["/wemakeyoubake/_next/static/chunks/0qi-mvzpxhkna.js","/wemakeyoubake/_next/static/chunks/25f-t_t82we7t.js"],"OutletBoundary"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-12 sm:px-6","children":[["$","h1",null,{"className":"font-display text-4xl font-semibold sm:text-5xl","children":"The bakery case"}],["$","p",null,{"className":"mt-3 max-w-lg text-cocoa-light","children":"Everything is baked in small batches each morning. When it's gone, it's gone — until tomorrow."}],["$","$2",null,{"children":["$","$L3",null,{}]}]]}],[["$","script","script-0",{"src":"/wemakeyoubake/_next/static/chunks/0wkqwqg-jj_t_.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4cPLGZLW2R8RaOIGVi2Ao"}
+5:null
