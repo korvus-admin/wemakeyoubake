@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[4716,["/wemakeyoubake/_next/static/chunks/0k8m35lz-013k.js","/wemakeyoubake/_next/static/chunks/25f-t_t82we7t.js"],"default"]
+3:I[42605,["/wemakeyoubake/_next/static/chunks/0k8m35lz-013k.js","/wemakeyoubake/_next/static/chunks/25f-t_t82we7t.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"V5Ho21YOjNCuGESdhlIPn"}

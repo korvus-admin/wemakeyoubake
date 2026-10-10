@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[14027,["/wemakeyoubake/_next/static/chunks/0k8m35lz-013k.js","/wemakeyoubake/_next/static/chunks/25f-t_t82we7t.js"],""]
+3:I[70712,["/wemakeyoubake/_next/static/chunks/0k8m35lz-013k.js","/wemakeyoubake/_next/static/chunks/25f-t_t82we7t.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-xl px-6 py-28 text-center","children":[["$","p",null,{"className":"eyebrow","children":"Waitlist"}],["$","h1",null,{"className":"font-display mt-4 text-5xl","children":"You’re on the list."}],["$","p",null,{"className":"mt-6 leading-relaxed text-cocoa-light","children":"We’ll email you as soon as the next bake opens."}],["$","$L2",null,{"href":"/","className":"mt-10 inline-block border border-cocoa px-10 py-3.5 text-[11px] tracking-[0.3em] uppercase hover:bg-cocoa hover:text-white","children":"Back home"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"V5Ho21YOjNCuGESdhlIPn"}
+5:null
